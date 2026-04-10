@@ -3,7 +3,7 @@
   "sources": {
     "te-ara-hura": {
       "type": "geojson",
-      "data": "sources/te_ara_hura.geojson"
+      "data": "sources/NZ_trail.geojson"
     }
   },
   "layers": [
